@@ -2,7 +2,7 @@ prediction-of-house-value
 Machine learning model to predict house price with Lasso and Ridge model 
 https://github.com/ajayrajput86/prediction-of-house-value
 
-1. # Importing all require lib
+1.  Importing all require lib
 2. Working with outlier 
 3. Visualizing data with chart 
 4. finding high correlation feature with correlation
