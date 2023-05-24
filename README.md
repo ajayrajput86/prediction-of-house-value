@@ -1,4 +1,4 @@
-# prediction-of-house-value
+prediction-of-house-value
 Machine learning model to predict house price with Lasso and Ridge model 
 https://github.com/ajayrajput86/prediction-of-house-value
 
